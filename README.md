@@ -40,8 +40,6 @@ This project contains automated UI tests for the **RedEye Rider App** using `XCT
 - **Coordinates incorrect?**
   - Adjust the `screenSize` multipliers to match different screen sizes.
 
-## License
-This project is licensed under the MIT License.
 
 ## Author
 Developed by **Sai Mahitha Etikala**.
